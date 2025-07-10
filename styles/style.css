@@ -12,7 +12,9 @@
   font-optical-sizing: auto;
   font-style: normal;
 }
-
+body{
+    background-color: #F5F8FF;
+}
 /* header section start....
 .............................. */
 
@@ -238,7 +240,7 @@ header{
     margin-top: 20px;
     padding: 24px 24px;
     gap:24px;
-    background-color: rgb(248, 248, 248);
+    background-color: rgb(255, 255, 255);
     border-radius: 14px;
     /* border: 2px solid brown; */
 }
@@ -290,4 +292,65 @@ header{
 
 .review-date{
     color: #2524328c;
+}
+
+/* challenging part complete............... */
+
+
+/* Ready to focus part start..
+............................. */
+
+.ready-focus-section{
+    width: 1140px;
+    height: 616.77px;
+    text-align: center;
+    gap:20px;
+    padding: 30px 31px;
+    border-radius: 14px;
+    background-color: #FFFFFF;
+    /* border: 2px solid red; */
+    margin-left:151px;
+}
+
+.ready-to-focus-title{
+    font-size: 50px;
+    line-height: 120px;
+    width: 516px;
+    height: 65px;
+    color: #000000;
+    margin-left:350px;
+}
+
+.ready-to-focus-passage{
+    color: #00000081;
+    width: 497px;
+    height: 22px;
+    font-size: 14px;
+    margin-left:350px;
+    /* border: 2px solid; */
+}
+
+.ready-to-focus-btn{
+     background-color: #4E47FF;
+    width: 195px;
+    height: 48px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding:12px  35px ;
+    border-radius: 10px;
+    border: none;   
+   line-height: 50px;
+}
+
+/* ready to focus image part */
+.ready-image-container{
+    margin-top: 40px;
+}
+.ready-to-focus-image{
+    width: 840px;
+    height: 364px;
+    border-radius: 48px;
+
 }
