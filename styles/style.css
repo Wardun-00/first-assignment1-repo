@@ -25,6 +25,10 @@ header{
     padding: 0px 0px 0px 200px;
 }
 
+.logo{
+    font-size: 34px;
+    font-weight: 900;
+}
 .navbar{
     display: flex;
     justify-content: space-between;
