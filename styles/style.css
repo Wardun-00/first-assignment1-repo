@@ -520,3 +520,45 @@ button:hover{
 
 /* footer section start....
 ........................... */
+.footer-section {
+    width:1540px;
+    height:328px;
+    background-color: #FFFFFF;
+    padding-top:10px;
+   
+}
+
+.total-section-container {
+    /* background-color: rgba(255, 0, 0, 0.295); */
+    width: 550px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.last-logo-text {
+    font-size: 80px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+
+.last-passage {
+    width: 100%;
+    max-width: 531px;
+    color: #8987A1;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.last-menu-container {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+
+.last-click {
+    text-decoration: none;
+    color: #8987A1;
+}
