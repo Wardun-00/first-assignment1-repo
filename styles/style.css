@@ -562,3 +562,11 @@ button:hover{
     text-decoration: none;
     color: #8987A1;
 }
+
+.last-click:hover{
+    background-color: #4E47FF;
+    color: white;
+    padding: 5px;
+    border-radius: 20px;
+    box-shadow: 5px 7px 14px black;
+}
