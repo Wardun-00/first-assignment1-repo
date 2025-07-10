@@ -29,7 +29,7 @@ header{
     width: 1140px;
     height: 151px;
     padding: 50px;
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 /* logo part */
@@ -68,7 +68,7 @@ header{
     text-align: center;
     width: 905px;
     height: 237px;
-    border: 2px solid seagreen;
+    /* border: 2px solid seagreen; */
     margin-top:48px;
     margin-left:140px;
 }
@@ -96,3 +96,59 @@ header{
 }
 
 /* nav and hero section closed......... */
+
+
+
+/* second action section start....
+.................................. */
+.action{
+    width: 1140px;
+    height: 328px;
+    /* border: 2px solid purple; */
+    margin-left: 191px;
+    margin-top:116px;
+}
+
+.action-container{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.action-text{
+    margin-top:68px;
+}
+.action-text-title{
+    font-size: 42;
+    font-weight: bold;
+    color: #252432;
+    width: 517px;
+    height: 29px;
+}
+
+.action-passage{
+    font-size: 24px;
+    line-height:30px;
+    color: #2524327e;
+    width: 517px;
+    height: 70px;
+}
+
+.action-btn{
+    background-color: #4E47FF;
+    width:229px;
+    height: 48px;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    padding:12px  35px ;
+    border-radius: 10px;
+    border: none;   
+}
+
+/* action image */
+.action-image{
+    border-radius: 48px;
+    
+}
